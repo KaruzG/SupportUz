@@ -1,9 +1,9 @@
 # SupportUz 🚧
-Tickering Web App . 
+Ticketing Web App . 
 Create **companies, users, support users** and manage the tickets created by users. 
 
 ## Where we aim
-We want to make an open source tickering web app easy to install in any server and customizable. Manage tickets from 1 companie or multiple, get alerts via mail/telegram of events, and more.
+We want to make an open source ticketing web app easy to install in any server and customizable. Manage tickets from 1 companie or multiple, get alerts via mail/telegram of events, and more.
 Right now is an early proyect so new ideas will arrive 😉.
 
 ## Roadmap 
