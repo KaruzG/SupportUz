@@ -1,0 +1,11 @@
+# README:
+# Este directorio es para almacenar las imágenes de la web
+# README END
+
+
+
+# Ignorar todo el contenido
+*
+
+# Menos este archivo
+!.gitignore
