@@ -11,7 +11,6 @@
     <!-- ------------JS------------ -->
     <!-- ------------PHP------------ -->
 
-    
 </head>
 <body>
     <!-- ------------LOGO------------ -->
@@ -20,9 +19,9 @@
     </div>
 
     <!-- ------------FORMULARIO------------ -->
-    <div class="container" id="formularioLogin">
-        <h4>Inicio de sesión</h3>
-        <form action="processLogin.php" method="post">
+    
+        <form class="container" action="processLogin.php" method="post">
+            <h4>Inicio de sesión</h3>
             <p>Usuario</p>
             <input type="text" name="usuario" placeholder="Usuario" required>
             <p>Contraseña</p>
@@ -33,7 +32,7 @@
             <a href="">Olvidé la contraseña</a>
             <button type="submit">Iniciar Sesión</button>
         </form>
-    </div>
+
 
     <!-- ------------FOOTER------------ -->
     <footer>
