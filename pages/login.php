@@ -37,6 +37,7 @@
     <!-- ------------FOOTER------------ -->
     <footer>
         <p>&copy; 2023 <a href="https://github.com/KaruzG">KaruzG</a>. All rights reserved.</p>  
+        <p><a href="https://github.com/feitan173">Feitan173</a>coxinillo</p>  
     </footer>
 </body>
 </html>
